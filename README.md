@@ -1,9 +1,9 @@
 # ASCII-Terminal
 VT-100 Clone ASCII Terminal
 
-VT100-Clone ASCII Terminal on a chip, this project is a new PCB designed around "Geoff's VT100 Terminal" by Geoff Graham, and the modified firmware designed by David Hansel  (https://github.com/dhansel/TerminalUSB) @dhansel which supports a USB Keyboard.
+VT100-Clone ASCII Terminal on a chip, this project is a new PCB designed around "Geoff's VT100 Terminal" by Geoff Graham, and the modified firmware designed by David Hansel  (https://github.com/dhansel/TerminalUSB) which supports a USB Keyboard.
 
-Also inspired by Peter Hizalev's work @petrohi (https://github.com/petrohi/terminal).
+Also inspired by Peter Hizalev's work (https://github.com/petrohi/terminal).
 
 What is changed in this project is:
 
